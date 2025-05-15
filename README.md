@@ -3,6 +3,8 @@
 
 A browser-based application that uses the webcam to capture live video, processes frames with a locally run vision-language model (SmolVLM), and returns responses based on user-given instructions. Perfect for experimenting with real-time visual AI interactions!
 
+## [Demo link](https://biswatma.github.io/zerocam/)
+
 ---
 
 ## 🔍 Features
